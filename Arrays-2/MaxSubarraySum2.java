@@ -1,5 +1,7 @@
+// Prefix Sum
+
 public class MaxSubarraySum2 {
-    
+
     public static void maxSubarraySum(int numbers[]){
         int currSum = 0;
         int maxSum = Integer.MIN_VALUE;
