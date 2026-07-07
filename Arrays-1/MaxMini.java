@@ -1,4 +1,3 @@
-package Arrays;
 public class MaxMini {
     public static int[] getNumbers(int numbers[]){
         int MaxMini[] = new int[2];
