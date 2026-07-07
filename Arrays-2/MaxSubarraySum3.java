@@ -1,4 +1,4 @@
-// kadanes algorithm
+// Kadanes Algorithm
 
 public class MaxSubarraySum3 {
 
