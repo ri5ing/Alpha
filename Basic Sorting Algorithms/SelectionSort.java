@@ -1,4 +1,4 @@
-// Selection Sort - TC = 0(n^2)
+// Selection Sort - TC = O(n^2)
 
 public class SelectionSort {
 
