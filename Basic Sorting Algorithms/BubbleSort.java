@@ -1,4 +1,4 @@
-// Bubble Sort
+// Bubble Sort -  TC = O(n^2)
 
 public class BubbleSort { 
     public static void bubbleSort(int arr[]){
